@@ -64,6 +64,5 @@ main = putStrLn "✅ Simple Plutus smart contract compiled successfully!"
 ## 🎯 Hobbies & Interests
 
 * 🏃‍♂️ **Running & Fitness** – Keeps my mind sharp for solving complex algorithms.
-* 🎮 **Gaming & Game Development** – Love exploring mechanics, graphics, and blockchain integration in games.
 ---
 
