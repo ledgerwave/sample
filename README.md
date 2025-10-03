@@ -1,6 +1,6 @@
 # 🚀 Senior Fullstack & Blockchain Developer
 
-Passionate about building scalable web applications and innovative blockchain solutions. I specialize in creating robust, secure, and user-friendly applications that bridge traditional web development with cutting-edge blockchain technology.
+Passionate about building scalable web applications and innovative blockchain solutions.</br> I specialize in creating robust, secure, and user-friendly applications that bridge traditional web development with cutting-edge blockchain technology.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ledgerwave&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -68,3 +68,4 @@ main = putStrLn "✅ Simple Plutus smart contract compiled successfully!"
 * 📚 **Reading Tech & Sci-Fi** – From blockchain protocols to futuristic novels, I enjoy expanding my horizons.
 * 🎨 **Digital Art & NFTs** – Experimenting with digital art creation and NFT minting.
 ---
+
