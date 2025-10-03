@@ -60,9 +60,3 @@ main = putStrLn "✅ Simple Plutus smart contract compiled successfully!"
 > Turning code into value, one block at a time.
 
 ---
-
-## 🎯 Hobbies & Interests
-
-* 🏃‍♂️ **Running & Fitness** – Keeps my mind sharp for solving complex algorithms.
----
-
