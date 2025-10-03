@@ -54,9 +54,3 @@ main = putStrLn "✅ Simple Plutus smart contract compiled successfully!"
 ```
 
 ---
-
-## 🎨 Personal Touch
-
-> Turning code into value, one block at a time.
-
----
