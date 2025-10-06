@@ -1,4 +1,4 @@
-# Senior Fullstack & Blockchain Developer
+# 🚀 Senior Fullstack & Blockchain Developer
 
 Passionate about building scalable web applications and innovative blockchain solutions. I specialize in creating robust, secure, and user-friendly applications that bridge traditional web development with cutting-edge blockchain technology.
 
