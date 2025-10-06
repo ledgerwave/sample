@@ -1,4 +1,4 @@
-# 🚀 Senior Fullstack & Blockchain Developer
+# Senior Fullstack & Blockchain Developer
 
 Passionate about building scalable web applications and innovative blockchain solutions. I specialize in creating robust, secure, and user-friendly applications that bridge traditional web development with cutting-edge blockchain technology.
 
@@ -10,5 +10,3 @@ Passionate about building scalable web applications and innovative blockchain so
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=ledgerwave&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
-
-## 🤝 Let's Connect
