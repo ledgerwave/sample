@@ -12,9 +12,3 @@ Passionate about building scalable web applications and innovative blockchain so
 </div>
 
 ## 🤝 Let's Connect
-
-<div align="center">
-  <a href="mailto:mirai.lucky.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
