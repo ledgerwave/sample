@@ -17,7 +17,4 @@ Passionate about building scalable web applications and innovative blockchain so
   <a href="mailto:mirai.lucky.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://discord.com/users/555336834448752648">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
 </div>
