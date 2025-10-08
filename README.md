@@ -20,7 +20,4 @@ Passionate about building scalable web applications and innovative blockchain so
   <a href="https://discord.com/users/555336834448752648">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  <a href="https://t.me/poseidon_0990">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
 </div>
