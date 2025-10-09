@@ -12,7 +12,7 @@ Passionate about building scalable web applications and innovative blockchain so
 </div>
 
 
-<!-- # ⛓ Haskell Smart Contract
+# ⛓ Haskell Smart Contract
 ```Haskell
 {-# LANGUAGE DataKinds           #-}
 {-# LANGUAGE NoImplicitPrelude   #-}
@@ -51,4 +51,4 @@ valAddress = scriptHashAddress valHash
 main :: IO ()
 main = putStrLn "✅ Simple Plutus smart contract compiled successfully!"
 
-``` -->
+```
