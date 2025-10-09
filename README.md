@@ -52,5 +52,3 @@ main :: IO ()
 main = putStrLn "✅ Simple Plutus smart contract compiled successfully!"
 
 ```
-
----
