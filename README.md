@@ -53,3 +53,7 @@ main = putStrLn "✅ Simple Plutus smart contract compiled successfully!"
 
 ```
 
+## Hobbies & Interests
+
+* Football
+* Tennis
